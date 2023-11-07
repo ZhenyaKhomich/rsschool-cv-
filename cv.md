@@ -1,4 +1,4 @@
-![myFoto](https://github.com/ZhenyaKhomich/rsschool-cv/blob/gh-pages/131522263.jpg)
+![myFoto](https://github.com/ZhenyaKhomich/rsschool-cv/blob/gh-pages/131522263.jpg?raw=true)
 # Zhenya Khomich
 
 **Contacts**
@@ -19,7 +19,7 @@
  4. Основы Git
 
 **Code**
-![code](https://github.com/ZhenyaKhomich/rsschool-cv/blob/gh-pages/image.png)
+![code](https://github.com/ZhenyaKhomich/rsschool-cv/blob/gh-pages/image.png?raw=true)
 
 **Experience**
 
