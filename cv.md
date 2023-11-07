@@ -1,4 +1,35 @@
-![myFoto](/1682452078030_1682452076018.jpg)
+![myFoto](/131522263.jpg)
 # Zhenya Khomich
 
+**Contacts**
+
+GitHub: ZhenyaKhomich
+Discord: Zhenya Khomich
+Telegram: @Zhenyatsoy2106
+
+
+**About me**
+
+I am 31 years old. I am new to the IT world. I set myself the goal of taking this course, gaining experience and becoming a good specialist. I believe that it is not the assessment that is important, but knowledge.
+
+**Skills**
+ Основы HTML
+ Основы CSS
+ Основы JS
+ Основы Git
+
+**Code**
+![code](/image.png)
+
+**Experience**
+
+I have no work experience in this field
+
+**Educated**
+
+ Belarusian National University
+
+**Language level**
+ English (A1 - beginner)
+ Russian (native)
 
